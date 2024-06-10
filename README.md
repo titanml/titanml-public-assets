@@ -2,6 +2,42 @@
 
 This repository contains public assets, logos, press materials, and other resources related to TitanML's corporate identity. These assets are available for public use in press releases and other promotional materials.
 
+## Corporate Brand Colors
+### Red
+- Hex: #E45F5B
+- RGB: 228, 95, 91
+- MYK: 5, 74, 58, 0
+
+### Yellow
+- Hex: #FFC068
+- RGB: 255, 192, 104
+- CMYK: 0, 30, 64, 0
+
+### Beige
+- Hex: #FFE7DC
+- RGB: 255, 231, 220
+- CMYK: 0, 23, 13, 0
+
+### Sky Blue
+- Hex #71CCE9
+- RGB: 113, 204, 233
+- CMYK: 55, 0, 8, 0
+
+### Blue
+- Hex: #383D95
+- RGB: 56, 61, 149
+- CMYK: 92, 82, 0, 0
+
+### White
+- 656 С
+- HEX: #DDE5ED
+- RGB: 221, 229, 237
+
+### Black
+- Black 6 C
+- HEX: #101820
+- RGB: 16, 24, 32
+
 ## Contents
 
 - `favicon_package_v0.16/`: Favicons for light mode
