@@ -48,7 +48,8 @@ This repository contains public assets, logos, press materials, and other resour
 - `TitanML-LinkedIn Banner-Light-3168x792.png`: Light-themed banner for LinkedIn (3168x792)
 - `TitanML-Logo-4440x1000.png`: TitanML logo (4440x1000)
 - `TitanML-Logo-Dark-1080x1080.png`: Dark-themed TitanML logo (1080x1080)
-- `TitanML-YouTube-Banner-4096x2304.png`: YouTube banner (4096x2304)
+- `TitanML-icon.svg`: TitanML icon in SVG format
+- `TitanML-Logo.svg`: TitanML logo in SVG format
 
 ## Usage
 
