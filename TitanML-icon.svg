@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TitanML_icon" data-name="TitanML icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="31.83" y1="31.83" x2="219.33" y2="219.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4605b"/>
+      <stop offset=".25" stop-color="#fbbe6a"/>
+      <stop offset=".5" stop-color="#fde7dd"/>
+      <stop offset=".75" stop-color="#73c9e7"/>
+      <stop offset="1" stop-color="#383f92"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M125,5C35,5,5,35,5,125s30,120,120,120,120-30,120-120S215,5,125,5Zm79.59,199.59c-29.7,29.7-89.41,18.14-133.36-25.82C27.27,134.82,15.71,75.11,45.41,45.41c29.7-29.7,89.4-18.14,133.36,25.82,43.96,43.96,55.52,103.67,25.82,133.36Z"/>
+</svg>
